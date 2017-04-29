@@ -42,6 +42,7 @@
 #include <cmath>
 #include <termios.h>
 #include <ctime>
+#include <stdlib.h>
 
 #define BIT0  0x0001
 #define BIT1  0x0002
